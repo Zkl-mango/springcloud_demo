@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/springcloud_eureka_serviceconsumer_ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud_eureka_serviceprovider/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-eureka-serviceconsumer-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-config-server/pom.xml" />
       </list>
     </option>
   </component>
