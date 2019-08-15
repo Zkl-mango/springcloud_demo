@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springcloud-eureka-serviceconsumer-ribbon" />
         <module name="springcloud-eureka-server" />
+        <module name="springcloud-config-client" />
         <module name="springcloud-eureka-serviceconsumer-feign" />
         <module name="springcloud-eureka-serviceprovider" />
         <module name="springcloud-config-server" />
@@ -16,6 +17,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springcloud-config-client" options="" />
       <module name="springcloud-config-server" options="" />
       <module name="springcloud-eureka-server" options="" />
       <module name="springcloud-eureka-serviceconsumer-feign" options="" />
