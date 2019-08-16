@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/springcloud-eureka-serviceconsumer-feign/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-config-server/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-gateway-helloword/pom.xml" />
       </list>
     </option>
   </component>

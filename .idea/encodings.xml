@@ -7,5 +7,6 @@
     <file url="file://$PROJECT_DIR$/springcloud-eureka-serviceconsumer-feign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-eureka-serviceconsumer-ribbon" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-eureka-serviceprovider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-gateway-helloword" charset="UTF-8" />
   </component>
 </project>

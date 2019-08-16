@@ -6,12 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springcloud-config-server" />
         <module name="springcloud-eureka-serviceconsumer-ribbon" />
         <module name="springcloud-eureka-server" />
-        <module name="springcloud-config-client" />
         <module name="springcloud-eureka-serviceconsumer-feign" />
+        <module name="springcloud-gateway-helloword" />
         <module name="springcloud-eureka-serviceprovider" />
-        <module name="springcloud-config-server" />
+        <module name="springcloud-config-client" />
       </profile>
     </annotationProcessing>
   </component>
@@ -23,6 +24,7 @@
       <module name="springcloud-eureka-serviceconsumer-feign" options="" />
       <module name="springcloud-eureka-serviceconsumer-ribbon" options="" />
       <module name="springcloud-eureka-serviceprovider" options="" />
+      <module name="springcloud-gateway-helloword" options="-parameters" />
     </option>
   </component>
 </project>
